@@ -1,0 +1,30 @@
+_repo: The-Peter-Pan-Alphabet_24012
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 24012-h/images/imgbacover.jpg
+creator:
+  author:
+    agent_name: Herford, Oliver
+    alias: Herford, O. (Oliver)
+    birthdate: 1863
+    deathdate: 1935
+    gutenberg_agent_id: '24852'
+    url: http://www.gutenberg.org/2009/agents/24852
+    wikipedia: http://en.wikipedia.org/wiki/Oliver_Herford
+description: The alphabet with a poem underneath. Illustrations on opposite pages
+  facing alphabet.
+gutenberg_issued: '2007-12-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24012'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Alphabet books'
+- !lcsh 'Peter Pan (Fictitious character)'
+title: The Peter Pan Alphabet
+url: http://www.gutenberg.org/ebooks/24012
